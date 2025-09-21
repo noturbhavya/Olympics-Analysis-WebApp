@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import preprocess, helper
+import Scripts.preprocess as preprocess, Scripts.helper as helper
 import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
